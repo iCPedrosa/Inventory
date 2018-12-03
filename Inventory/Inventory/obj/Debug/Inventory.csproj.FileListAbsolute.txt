@@ -1,0 +1,11 @@
+c:\users\israe\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+c:\users\israe\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+c:\users\israe\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+c:\users\israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.ViewInventory.resources
+C:\Users\Israe\source\repos\Inventory\Inventory\obj\Debug\Inventory.InventoryManagement.resources
